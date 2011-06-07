@@ -12,11 +12,7 @@ Gem::Specification.new do |s|
   s.date = %q{2010-07-06}
   s.description = %q{Alternate logger for Rails that emits syslog-style output. For use with pl_analyze gem.}
   s.email = %q{boss@topfunky.com}
-  s.extra_rdoc_files = [
-    "README.txt"
-  ]
   s.files = [
-    "README.txt",
      "Rakefile",
      "lib/hodel_3000_compliant_logger.rb",
      "spec/hodel_3000_compliant_logger_spec.rb"
